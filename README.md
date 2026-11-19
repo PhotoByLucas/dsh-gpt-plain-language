@@ -1,4 +1,4 @@
-# GPT 说人话
+# 让做题区 GPT 说人话
 
 [English](README.en.md) · [实现说明](docs/architecture.md) · [贡献指南](CONTRIBUTING.md)
 
