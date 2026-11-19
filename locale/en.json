@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plain language for GPT",
+    "description": "Select a GPT model to apply the conversational parts of i-have-adhd and eli5: lead with the answer, use short sentences, and give concrete examples. This never triggers HTML on its own; run /eli5 when you want the original skill. It adds no extra model calls and does not inject the guidance into other models. Turn it off in Plugins."
+  }
+}

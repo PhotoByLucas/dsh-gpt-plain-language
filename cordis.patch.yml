@@ -1,0 +1,4 @@
+- insert:
+    - id: local-gpt-plain-language
+      name: '@local/dsh-gpt-plain-language'
+      config: {}
