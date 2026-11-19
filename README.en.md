@@ -4,6 +4,12 @@
 
 A DeepSeek Harness (DSH) plugin that asks GPT to lead with the answer, use everyday language, and give a concrete next action when needed. It adapts the conversational parts of `i-have-adhd` and `eli5`; it does not invoke their slash commands or turn ordinary chats into HTML explanations.
 
+## Why I built this
+
+To me, GPT feels like a model built to solve exam questions. It's good at answering a clearly defined problem, but I find it far less useful than Claude for everyday conversation, explanations, and working through tasks together. Claude's default replies feel more direct and natural to me, without a long style prompt just to get to the point. That's my experience, not a benchmark result.
+
+This plugin makes the style guidance I kept adding by hand the default for GPT chats.
+
 ## Get started
 
 1. Use DSH **`0.2.2-rc.5`**, the version currently declared and verified.
